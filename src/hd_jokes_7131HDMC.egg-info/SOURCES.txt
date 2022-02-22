@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/hd_jokes_7131HDMC.egg-info/PKG-INFO
+src/hd_jokes_7131HDMC.egg-info/SOURCES.txt
+src/hd_jokes_7131HDMC.egg-info/dependency_links.txt
+src/hd_jokes_7131HDMC.egg-info/top_level.txt
+src/hdjokes_package/__init__.py
+src/hdjokes_package/hdjokes.py
