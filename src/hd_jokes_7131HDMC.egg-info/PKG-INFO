@@ -15,5 +15,6 @@ Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
-UNKNOWN
+# HdJokes
+Python library to choice a random joke in a refered language  
 
