@@ -15,7 +15,7 @@ def head(listarr):
 class haridadejokes:
 	def __init__(self,language='pt',web=True):
 		#return dict
-		name = "jokes/"+language+"/jokes"	 
+		name = "../../jokes/"+language+"/jokes"	 
 		if web:
 			 name+="web"
 		name+=".json"  
